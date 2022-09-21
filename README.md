@@ -21,15 +21,6 @@ we use a very secure method called _hashing_, that prevents attackers from rever
 
 > _"You couldn't be any safer!"_
 
-## How to use
-
-1. First, download our app:
-    1. To download **SafeFolder**, download from the latest version [here](https://github.com/Agentew04/SafeFolder/releases/latest)
-    2. Expand the _**Assets**_ tab down below and find a `SafeFolder` file according to your operating system and click it.
-2. Drag and drop the `SafeFolder` file in the folder that you want to protect
-3. Execute and follow the instructions.
-4. Enjoy total privacy!
-
 ## TODOs
 
 - [x] Protecting you data 🔒✔
